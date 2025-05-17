@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Integration Services Project_SalesData_SSIS", "Integration Services Project_SalesData_SSIS.dtproj", "{42628584-DA84-46A1-BD8F-661400A606DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42628584-DA84-46A1-BD8F-661400A606DD}.Development|Default.ActiveCfg = Development
+		{42628584-DA84-46A1-BD8F-661400A606DD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6042F097-3FB0-46B0-94FA-105138D2CA63}
+	EndGlobalSection
+EndGlobal
